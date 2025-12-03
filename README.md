@@ -69,4 +69,5 @@ Correlation heatmap
 
 Logistic regression feature impacts
 
-(Add screenshots from your notebook into a /plots folder to showcase visually)
+<img width="760" height="605" alt="image" src="https://github.com/user-attachments/assets/c0a49ace-7805-463e-82ee-b3ce1b4e37ec" />
+<img width="1257" height="624" alt="image" src="https://github.com/user-attachments/assets/9e718621-8aec-4f5c-8139-142c478ea60d" />
