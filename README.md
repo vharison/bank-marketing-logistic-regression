@@ -14,7 +14,6 @@ Predicting customer subscription behavior using Logistic Regression and marketin
   <img src="https://img.shields.io/badge/Scikit--Learn-Modeling-yellow.svg?style=flat" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg?style=flat" />
   <img src="https://img.shields.io/badge/Notebook-Google collab-orange.svg?style=flat" />
-  <img src="https://img.shields.io/github/license/<vharison>/<bank-marketing-logistic-regression >?style=flat" />
 </p>
 
 🚀 Project Goal
