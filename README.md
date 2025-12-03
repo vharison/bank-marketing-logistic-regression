@@ -49,7 +49,7 @@ Accuracy	~88–92% (varies by split & feature engineering)
 Evaluation Charts	✔ Confusion Matrix, ✔ ROC-AUC Curve
 Feature Importance	✔ Analyzed logistic coefficients
 
-📌 NOTE — Update the table with your exact accuracy score from the latest run.
+
 
 🔑 Key Insights (Business perspective)
 
